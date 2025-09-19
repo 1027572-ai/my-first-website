@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+
+</style>
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+
+</head>
+<body>
+<div id="header">Stephen Schwalms's Website</div>
+<div id="nav">Home  <a href="aboutme.html">About Me</a>  <a href="favoritethings.html">Favorite Things</a>  <a href="contactme.html">Contact Me</a></div>
+<div>
+	<img src="computer.jpg" alt="Graphic Designer" height="200px" style="float: left; margin-right: 15px;"><h2>Welcome to my website!</h2>
+<p>&nbsp;Welcome to my website! I'm a web designer currently studying at El Camino High School, where I’m combining my love for creativity and technology to build clean, modern websites. Outside of the classroom, I’m also passionate about basketball—I love the game, the discipline it teaches, and the teamwork it builds. I was born in the Philippines but now call Oceanside my home , and my roots continue to shape who I am today—hardworking, driven, and always ready to learn. This site is a reflection of my journey so far, and I’m excited to keep growing, both as a designer and as a person.</p>
+</div><div style="clear: both;"></div>
+<div class="thirdcolumn">
+  <h3>About Me</h3>
+  <p>Hi, I’m Stephen Schwalm, a web designer passionate about helping small businesses thrive online. I specialize in creating clean, modern, and user-friendly websites that not only look great but also work hard for your business. Whether you're just starting out or looking to refresh your current site, I focus on understanding your brand, your goals, and your audience to deliver a custom solution that fits your needs—and your budget. Let’s build something that helps your business stand out and grow.&nbsp;</p>
+  <p>Read More...</p>
+</div>
+<div class="thirdcolumn">
+  <h3>Favorite Things</h3>
+  <p>&nbsp;I have a deep passion for basketball, a sport that has always brought excitement and energy into my life. Whether I’m playing a game with friends or watching a big match on TV, basketball inspires me with its fast pace and teamwork. The feeling of dribbling the ball down the court and making a perfect shot is something I truly enjoy, and it’s a great way for me to stay active and challenge myself. Family means everything to me, and I cherish the moments we spend together. No matter how busy life gets, I always make time to connect with my loved ones, sharing laughs, stories, and support. Being around family gives me a sense of comfort and belonging, reminding me of what’s most important in life. Their encouragement helps me stay grounded and motivated in everything I do. Nature is another source of peace and inspiration for me. I love spending time outdoors, whether it’s hiking through the woods, sitting by a lake, or just enjoying a quiet moment in a park. The beauty of natural surroundings helps me relax and recharge, offering a welcome escape from the hustle and bustle of daily life. Connecting with nature reminds me to appreciate the simple things and find balance in the world around me. </p>
+  <p>Read more...</p>
+</div>
+<div class="thirdcolumn">
+  <h3>Contact</h3>
+  <p>&nbsp;Have a project in mind or just want to say hello? I’d love to hear from you! Whether you’re a small business owner looking for a new website, a redesign, or just some help getting started online, feel free to reach out. I’m always open to new opportunities and collaborations. Just fill out the form below or send me an email—I'll get back to you as soon as possible!</p>
+  <p>Read more...</p>
+</div>
+<div style="clear: both;"></div>
+<div style="background-color:#161616 ; color: #e4dfda; text-align: center; padding: 15px;">Copyright &copy; 2025 Stephen Schwalm</div>
+</body>
+</html>
